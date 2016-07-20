@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: kokat
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Wojtek
+Implementation-Vendor-Id: pl.com.audeo.kokat
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_45
+Main-Class: ${start-class}
+
