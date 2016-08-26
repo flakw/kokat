@@ -1,2 +1,6 @@
-pl\com\audeo\kokat\MyVaadinUI.class
+pl\com\audeo\kokat\VaadinUI.class
+pl\com\audeo\kokat\Customer.class
+pl\com\audeo\kokat\CustomerRepository.class
+pl\com\audeo\kokat\CustomerEditor$ChangeHandler.class
+pl\com\audeo\kokat\CustomerEditor.class
 pl\com\audeo\kokat\KokatApplication.class
